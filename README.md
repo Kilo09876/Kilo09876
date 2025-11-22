@@ -37,3 +37,4 @@
  https://kilo09876.github.io/Kilo-electricsidecar.app/
  https://kilo09876.github.io/Kilo-Ecommerce-website/
  https://kilo09876.github.io/Kilo-travel-website/
+ https://kilo09876.github.io/Kilo-Rosie-Fashion-e-commerce/
